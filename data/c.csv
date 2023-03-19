@@ -1,1 +1,3 @@
-id,Company Name,CVR no,Address
+id,company name,Address,CVR No,individual Id
+1,twintop,sathy,123456,1
+2,abc,india,9879,2

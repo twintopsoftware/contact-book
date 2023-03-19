@@ -1,2 +1,5 @@
-id,FName,LName,Work Pno,Private Pno,Address
-1,a,s,3,4,r
+Individual Id,First Name,Last Name,Work Ph.No,Private Ph.No,Address
+1,pradeeban,bhavani,124,123,sathy
+2,pradeeban,bhavani,1234567890,987654343,sathy
+3,kalai,k,124256,2234,sathy
+4,hari,d,42425,45422,india
